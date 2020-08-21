@@ -2,9 +2,9 @@
 
 A simple weather forecase application with flutter.
 
-![Finished App](https://github.com/Temmytope-seun/climater/blob/master/lib/screen/screen1.PNG)
+![Finished App](https://github.com/Temmytope-seun/climater/blob/master/lib/images/screen1.PNG)
 
-![Finished App](https://github.com/Temmytope-seun/climater/blob/master/lib/screen/screen2.PNG)
+![Finished App](https://github.com/Temmytope-seun/climater/blob/master/lib/images/screen2.PNG)
 
 ## Getting Started
 
