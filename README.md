@@ -1,10 +1,13 @@
 # climater
 
-A new Flutter application.
+A simple weather forecase application with flutter.
+
+![Finished App](https://github.com/Temmytope-seun/climater/blob/master/lib/screen/screen1.PNG)
+
+![Finished App](https://github.com/Temmytope-seun/climater/blob/master/lib/screen/screen2.PNG)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
